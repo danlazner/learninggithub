@@ -1,2 +1,3 @@
 Here is some text
 Line added in 'mod1' branch only
+Added in GitHub
