@@ -1,3 +1,5 @@
 Test file #2, added in the 'mod1' branch
 Added another line in GitHub
 And again
+Test
+Test2
