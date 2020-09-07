@@ -3,3 +3,4 @@ Line added in 'mod1' branch only
 Added in GitHub
 And again
 As usual
+Added a line in work machine (dan.lazer@myob.com)
